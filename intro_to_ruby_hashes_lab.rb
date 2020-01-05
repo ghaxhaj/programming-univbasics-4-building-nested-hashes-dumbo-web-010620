@@ -50,7 +50,7 @@ def monopoly_with_fourth_tier
         :shortline_railroad => {}
       },
       :mortgage_value => {
-        :reading_railroad = 100
+        :reading_railroad => 100
       }
     }
 }
